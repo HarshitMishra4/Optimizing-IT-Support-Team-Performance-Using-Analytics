@@ -25,6 +25,12 @@ Mileage_KM, Price_USD
 Sales_Volume, Sales_Classification
 
 
+KPI 
+
+Recommendations 
+
+
+Tools Used
 
 
 
