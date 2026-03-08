@@ -30,8 +30,8 @@ Dashboard Description
 
  Interactive filters
  
- 1. Regional sales comparison
- 2. Time trend analysis
+  Regional sales comparison
+  Time trend analysis
 
 Key Insights
 
