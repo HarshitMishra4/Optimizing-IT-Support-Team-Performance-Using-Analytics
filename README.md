@@ -4,10 +4,10 @@ BMW Global Sales
 
 Problem Statement
 
-Which BMW Modles have the highest sales volume
+Which BMW Model have the highest sales volume
 How do sales trends change over the years for each model
 What is the average selling price per model, region, or fuel type
-Explore relationships between pricing, regions, and model success through visualizations
+Explore relationships between pricing, regions, and model success through visualizations.
 
 
 Dataset Description
@@ -16,7 +16,7 @@ The preparation process consist of preparing the BMW Sales data by gathering it 
 
 Data sourced: CSV File containing 50,000 rows and 10 columns representing BMW Global sales, data is flat and clean with structured fields for numerical and catergorical values.
 
-The data includes all neccessary fields needed to answer key business questions such as
+The data includes all neccessary fields needed to answer key business questions such as:
 
 Mode, Year
 Region, Fuel_Type
