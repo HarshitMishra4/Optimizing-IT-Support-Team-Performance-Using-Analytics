@@ -24,15 +24,20 @@ Transmission, Engine_Size_L
 Mileage_KM, Price_USD
 Sales_Volume, Sales_Classification
 
+KPI 
+
 Dashboard Description
 
  Interactive filters
  
  1. Regional sales comparison
-2. Time trend analysis
+ 2. Time trend analysis
 
+Key Insights
 
-KPI 
+ Sales by region
+ Sales growth by year
+ Best selling BMW models
 
 Recommendations 
 
