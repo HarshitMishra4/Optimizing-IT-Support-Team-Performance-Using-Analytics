@@ -7,7 +7,7 @@ Problem Statement
 Which BMW Model have the highest sales volume
 How do sales trends change over the years for each model
 What is the average selling price per model, region, or fuel type
-Explore relationships between pricing, regions, and model success through visualizations.
+Exploring  relationships between pricing, regions, and model success through visualizations.
 
 
 Dataset Description
