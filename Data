@@ -1,4 +1,4 @@
-// bmw_global_sales_2018_2025 (2)
+ bmw_global_sales_2018_2025 (2)
 let
     Source = Csv.Document(File.Contents("C:\Users\hp\Downloads\bmw_global_sales_2018_2025.csv"),[Delimiter=",", Columns=11, Encoding=1252, QuoteStyle=QuoteStyle.None]),
     #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
