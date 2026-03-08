@@ -12,7 +12,7 @@ Exploring  relationships between pricing, regions, and model success through vis
 
 Dataset Description
 
-The preparation process consist of preparing the BMW Sales data by gathering it cleaning, formatting and organizing the data to ensure suitability for the questions that need answering.
+The preparation process consist of preparing the BMW Sales data by gathering it, cleaning, formatting and organizing the data to ensure suitability for the questions that need answering.
 
 Data sourced: CSV File containing 50,000 rows and 10 columns representing BMW Global sales, data is flat and clean with structured fields for numerical and catergorical values.
 
