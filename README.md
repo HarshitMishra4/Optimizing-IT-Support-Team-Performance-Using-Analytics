@@ -30,9 +30,7 @@ Dashboard Description
  
 Key Insights
 
- Sales by region
- Sales growth by year
- Best selling BMW models
+ 
 
 Recommendations 
 
