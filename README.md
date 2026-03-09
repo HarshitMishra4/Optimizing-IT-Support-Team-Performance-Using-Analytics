@@ -1,38 +1,33 @@
 Title of the Project
 
-BMW Global Sales
+Jordan Car Market
 
 Problem Statement
 
-Which BMW Model have the highest sales volume
-How do sales trends change over the years for each model
-What is the average selling price per model, region, or fuel type
-Exploring  relationships between pricing, regions, and model success through visualizations.
+This dataset contains detailed listings of used cars for sale in Jordan, scraped from the popular classifieds platform OpenSooq Jordan. It provides comprehensive information about each vehicle, including price, model, year, mileage, fuel type, transmission, location, and more. The dataset is ideal for market analysis, price prediction models, and understanding the used car landscape in the Middle East.
 
 
 Dataset Description
 
-The preparation process consist of preparing the BMW Sales data by gathering it, cleaning, formatting and organizing the data to ensure suitability for the questions that need answering.
-
-Data sourced: CSV File containing 50,000 rows and 10 columns representing BMW Global sales, data is flat and clean with structured fields for numerical and catergorical values.
-
-The data includes all neccessary fields needed to answer key business questions such as:
-
-Mode, Year
-Region, Fuel_Type
-Transmission, Engine_Size_L
-Mileage_KM, Price_USD
-Sales_Volume, Sales_Classification
+Column Name	Description
+ID	Unique identifier for each listing.
+Model	Car model (mix of Arabic/English, translated intelligently).
+Year	Manufacturing year of the car.
+Condition	Condition of the car (e.g., Used, New (Zero)).
+Fuel Type	Type of fuel (Electric, Hybrid, Petrol, Diesel).
+Mileage	Mileage range as listed (e.g., "50,000 - 59,999 km").
+Seller Type	Type of seller (Private, Dealer, Agency).
+Location	City and area within Jordan where the car is located.
+Price	Price in Jordanian Dinars (JOD).
+Insurance	Insurance status (e.g., No Insurance, Insured, Comprehensive Insurance).
+Transmission	Transmission type (Automatic / Manual).
+Color	Exterior color of the car.
 
 KPI 
 
 Dashboard Description
 
- Interactive filters
  
-  Regional sales comparison
-  Time trend analysis
-
 Key Insights
 
  Sales by region
