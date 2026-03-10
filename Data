@@ -1,7 +1,0 @@
- bmw_global_sales_2018_2025 (2)
-let
-    Source = Csv.Document(File.Contents("C:\Users\hp\Downloads\bmw_global_sales_2018_2025.csv"),[Delimiter=",", Columns=11, Encoding=1252, QuoteStyle=QuoteStyle.None]),
-    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Year", Int64.Type}, {"Month", Int64.Type}, {"Region", type text}, {"Model", type text}, {"Units_Sold", Int64.Type}, {"Avg_Price_EUR", Int64.Type}, {"Revenue_EUR", Int64.Type}, {"BEV_Share", type number}, {"Premium_Share", type number}, {"GDP_Growth", type number}, {"Fuel_Price_Index", type number}})
-in
-    #"Changed Type"
