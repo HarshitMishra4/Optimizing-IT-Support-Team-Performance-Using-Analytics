@@ -30,6 +30,10 @@ Dashboard Description
 
 The Dashboard consists of 4 visual representation like scatter chart, bar graphs (horizontal and vertical) and a pie chart with a slicer based on total revenue  based on resolution time (in hrs) and so  the values in the visuals are adjusted accordingly. The Title of the dashboard is Customer Support Ticket Optimization. The KPI used here is Total revenue which was calculated using DAX and formulated as Customer Satisfaction Score * Resolution Time. 
 
+Key Insights
+
+
+
 Recommendations
 
 Enhance communication to improve CSAT scores.
