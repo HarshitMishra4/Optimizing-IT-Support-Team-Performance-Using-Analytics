@@ -5,19 +5,40 @@ Week 1
 
 Week 2
 
-1. Here I got to know about data cleaning operations through powerQuery editor such as Replacing values, removing inconsistencies, removing null values,removing blank spaces and Spliting columns.
+1. Here I got to know about data cleaning operations through powerQuery editor such as Replacing values, removing inconsistencies, removing null values,removing blank spaces and Spliting columns and deleting unwanted columns.
 2. I worked as a team for cleaning some datasets which helped me a lot to boost my confidence in data cleaning.
 
 Week 3
 
 1. Here, I was able to change the datatype of a particular column such as for a column units sold in a given dataset to get accurate results and a clear description of a dataset. 
-2. I was able to find the average of values of a particular column of a dataset using Statistics.
+2. I was able to find the average of values of a particular column with missing and special character included in  a dataset using Statistics option in powerquery editor.
 3. Also learned to add a new column in a given dataset.
 
 Week 4 
 
-1. I got to know the concept of KPI i.e. (Key performance Indicator) which is very useful for optimising the buisiness for a company through maximising revenue and profit.
+1. I got to know the concept of KPI i.e. (Key performance Indicator) which is a very useful parameter for optimising the buisiness for a company which  maximises the  revenue and profit.
 
 Week 5 
 
-1. I got to know about EDA i.e. (Exploratory Data Analysis) 
+1. I got to know about EDA i.e. (Exploratory Data Analysis) which is the process of understanding a given data, exploration of the given data and cleaning the given data. After that i came to know about 
+some column related concepts such as column profile, column distribution and column quality. With this i got to know about the relationship b/w different columns of a given data.
+
+2. Understanding the concept of outliers which is just the value which lies outside the range of a given set of values. 
+
+Week 6:
+
+1. Here I got to know the concept of Data modeling which  is just the process of organizing a given dataset using tables and establishing  relationships b/w them.
+2. I got to know different types of data we can encounter such as numerical data which is based on numerical values such as age, height, weight etc, Categorical data which is based 
+ on category and is textual such as gender, Name, Rollno etc and lastly  Time series data which is based on a range of values  such as daily sales, live cricket scores , gold price over a given period of time. 
+
+Week 7:
+1. Continuing on data modeling , I got to know actually how to create a table from a given dataset and find relationship b/w them. 
+2. There is a fact table which is the base table which is based on numerical data and there are one or several dimension table which are based on categories or textual data which  are connected to the fact table to form relationships.
+3. Here , I got to know about the types of relationships that can be formed b/w different tables such as one to one, one to many, many to one and last many to many. The no of relationships that can be formed b/w different tables is called as cardinality.
+4. I got to know the concept of Schema i.e. just the way of forming a relationship or a structure b/w tables. One specific type is when a fact table which is also a base table is connected to one or more dimension table then this type of structure is called as a star schema.
+5. There is also another way of forming a relationship b/w different tables such as a fact table to connected to different dimensional tables which are further splitted based on different column type, This type is relatively complex as a structure but more clear to understand and is called as snowflake schema.
+6. Here i Got to know the concept of keys i.e. Primary key and Foreign Key where a primary key is a uniquely identfiable column in a given table which has no duplicate values while a foreign key can be a common column b/w two different tables which actually responsible for forming a connection.
+
+Week 8:
+1. Here I got to know the concept of API i.e. Application programming Interface which facilitates a user to fetch data from an remote database server for creating a dataset. 
+2. Also got to know How  DAX works. DAX i.e. Data analysis expressions which is used for calculation purposes. 
