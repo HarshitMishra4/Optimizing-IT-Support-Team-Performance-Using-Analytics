@@ -23,6 +23,7 @@ Agent Name – Support staff handling the ticket
 Customer Satisfaction Score (CSAT) – Feedback rating
 
 KPI
+
 The following Dataset is based on a single KPI i.e Total Revenue generated.
 
 Dashboard Description
